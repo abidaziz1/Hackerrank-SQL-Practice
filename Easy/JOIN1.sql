@@ -64,7 +64,6 @@ Why Use JOIN?
 JOIN operations are powerful because they allow you to combine related data spread across multiple tables, enabling you to query complex datasets in a relational database.
 Visualizing the Join:
 Imagine the CITY and COUNTRY tables as two separate datasets:
-
 The CITY table has a column that refers to the country the city is in, but it doesn't directly have the continent information.
 The COUNTRY table has the continent information but no details about the individual cities.
 */
